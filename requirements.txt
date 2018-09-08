@@ -1,0 +1,6 @@
+Flask==0.12
+Jinja2==2.9.5
+requests==2.13.0
+rsa==3.4.2
+beautifulsoup4==4.4.1
+neo4j-driver==1.6.1
